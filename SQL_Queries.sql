@@ -8,7 +8,7 @@ SELECT emp_no,
 FROM employees AS "e"
   INNER JOIN salaries
     USING(emp_no)
-	  ORDER BY e.emp_no;
+	  ORDER BY emp_no;
 	
 --2. List first name, last name, and hire date for employees who were hired in 1986.
 
