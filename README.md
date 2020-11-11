@@ -1,5 +1,5 @@
 # **Employee Database: A Mystery in Two Parts**
-> Pymaceuticals Matplotlib challenge
+> SQL challenge
 
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.webhostpython.com%2Fwp-content%2Fuploads%2F2015%2F11%2Fdatabase.jpg&f=1&nofb=1)
 
@@ -12,23 +12,23 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 ### This was done in postgresql and Jupyter Notebooks. You will need to install and import the following
 
--PostgreSQL
+- PostgreSQL
 
--Jupyter Notebooks
+- Jupyter Notebooks
 
--matplotlib.pyplot
+- matplotlib.pyplot
 
--pandas 
+- pandas 
 
--numpy 
+- numpy 
 
--scipy.stats
+- scipy.stats
 
--seaborn 
+- seaborn 
 
--sqlalchemy 
+- sqlalchemy 
 
--statistics
+- statistics
 
 
 
