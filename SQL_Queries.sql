@@ -16,7 +16,7 @@ SELECT first_name AS "fn",
 	   last_name AS "ln",
 	   hire_date AS "hd"
 FROM employees AS "e"
-  WHERE hire_date between '1987-01-01' and '1987-12-31'
+  WHERE hire_date between '1986-01-01' and '1986-12-31'
     ORDER BY ln;
 
 --3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
